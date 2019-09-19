@@ -8,12 +8,7 @@ const index = () => {
       <Link href='/img'>
         <a>Get a random dog image!</a>
       </Link>
-      <img src='/static/img-1.jpg' alt='my image' />
       <style jsx>{`
-        img {
-          width: 50vh;
-          display: block;
-        }
         div {
           background: white;
         }
