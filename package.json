@@ -1,0 +1,29 @@
+{
+  "name": "next-js",
+  "version": "1.0.0",
+  "description": "Getting to know Next js basics",
+  "main": "index.js",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.0.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hinoga/Next-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hinoga/Next-js/issues"
+  },
+  "homepage": "https://github.com/Hinoga/Next-js#readme"
+}
